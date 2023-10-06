@@ -25,7 +25,7 @@ Topics Covered:
 
 • Amazon EC2
 
-Commands used in the video tutorial:
+Commands :
 Login as a root user:
 sudo su -
 
